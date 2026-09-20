@@ -65,8 +65,8 @@
         compatible = "zmk,conditional-layers";
 
         device {
-            if-layers = <4>;
-            then-layer = <4>;
+            if-layers = <3>;
+            then-layer = <3>;
         };
     };
 };
